@@ -24,26 +24,20 @@ Linked-List Class Methods
 * InsertBefore(new_item, existing_item);
 * getHead – return the head pointer (TESTING ONLY)
 * getTail – return the tail pointer (TESTING ONLY)
-PrintForwards – print the list forwards (TESTING ONLY)
-
-PrintBackwards – print the list backwards (TESTING ONLY)
-
+* PrintForwards – print the list forwards (TESTING ONLY)
+* PrintBackwards – print the list backwards (TESTING ONLY)
 
 Linked-List Class Data Members
 
-Head pointer
-
-Tail pointer
-
-Node Class Methods
-
-Canonical Methods
-
-Mutators/Accessors
-Node Class Data Members
-Data (type T)
-Next pointer
-Previous pointer
+* Head pointer
+* Tail pointer
+* Node Class Methods
+* Canonical Methods
+* Mutators/Accessors
+* Node Class Data Members
+* Data (type T)
+* Next pointer
+* Previous pointer
 
 
 Stipulations
