@@ -9,28 +9,36 @@ Description
 Write a Doubly-Linked List ADT that includes the methods listed below.
 
 Linked-List Class Methods
-Canonical Methods
-Mutators/Accessors
-isEmpty – does the list have any elements in it?
-First – return a const reference to the data in the first element.
-Last – return a const reference to the data in the last element.
-Prepend – add an item to the front of the list.
-Append – add an item to the end of the list.
-Purge – remove all items from the list.
-Extract – remove a single item from the list.
-InsertAfter – insert an item after an item in the list. 
-InsertAfter(new_item, existing_item);
-InsertBefore – insert an item before an item in the list. 
-InsertBefore(new_item, existing_item);
-getHead – return the head pointer (TESTING ONLY)
-getTail – return the tail pointer (TESTING ONLY)
+* Canonical Methods
+* Mutators/Accessors
+* isEmpty – does the list have any elements in it?
+* First – return a const reference to the data in the first element.
+* Last – return a const reference to the data in the last element.
+* Prepend – add an item to the front of the list.
+* Append – add an item to the end of the list.
+* Purge – remove all items from the list.
+* Extract – remove a single item from the list.
+* InsertAfter – insert an item after an item in the list. 
+* InsertAfter(new_item, existing_item);
+* InsertBefore – insert an item before an item in the list. 
+* InsertBefore(new_item, existing_item);
+* getHead – return the head pointer (TESTING ONLY)
+* getTail – return the tail pointer (TESTING ONLY)
 PrintForwards – print the list forwards (TESTING ONLY)
+
 PrintBackwards – print the list backwards (TESTING ONLY)
+
+
 Linked-List Class Data Members
+
 Head pointer
+
 Tail pointer
+
 Node Class Methods
+
 Canonical Methods
+
 Mutators/Accessors
 Node Class Data Members
 Data (type T)
